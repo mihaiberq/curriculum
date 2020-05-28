@@ -56,7 +56,7 @@ How do you select all the rows and columns from the `products` table?
 * SELECT EVERYTHING FROM products;
 * SELECT * FROM items;
 
----	
+---
 ## Footnotes
 
 [1:Query Language]
