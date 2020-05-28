@@ -66,6 +66,7 @@ However, SQL can only interact with a database and doesn't have the capability a
 
 [2:Database interactions]
 Aside from getting data from it, interacting with a database can include other manipulations like:
+
 - inserting data
 - updating data	
 - creating tables
