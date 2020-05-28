@@ -18,7 +18,7 @@ links:
 ---
 ## Content
 
-**SQL** stands for **Structured Query Language**.  
+**SQL** stands for **Structured Query Language**. 
 
 It's a query language[1] - a type of language that lets you interact[2] with a database. 
  
