@@ -20,7 +20,7 @@ aspects:
 
 JavaScript was originally developed to add functionality to web pages but it's now used for much more!
 
-Let's start with some reasons to learn JavaScript:
+Let's start with some reasons to learn [JavaScript](https://enki.com/glossary/general/object-oriented-programming.md):
 
 - JavaScript runs on pretty much **any platform** from web pages, to server backends and even hardware
 - There are some great **build and deployment tools** and frameworks written in JavaScript that are useful in many applications
