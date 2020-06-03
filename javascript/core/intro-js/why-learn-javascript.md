@@ -18,7 +18,7 @@ aspects:
 ---
 ## Content
 
-JavaScript was originally developed to add functionality to web pages but it's now used for much more! 
+JavaScript was originally developed to add functionality to web pages but it's now used for much more!
 
 Let's start with some reasons to learn [JavaScript](https://enki.com/glossary/general/object-oriented-programming.md):
 
