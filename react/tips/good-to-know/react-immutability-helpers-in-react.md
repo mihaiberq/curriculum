@@ -64,7 +64,7 @@ const newData = update(myData, {
 
 Although this format might need some getting used to, it provides a much better approach for determining which data has changed [1].
 
-In terms of notation, keys that are preceded by a `$` are called **commands** (`{ $push: array }`, `{ $apply: function }`, etc.) and the data that is being mutated is called the **target**. Will this `break[2]`?[2]
+In terms of notation, keys that are preceded by a `$` are called **commands** (`{ $push: array }`, `{ $apply: function }`, etc.) and the data that is being mutated is called the **target**. Will this `break[2]`?
 
 Here is how you would perform a shallow merge using the `update()` method:
 
@@ -147,3 +147,6 @@ var newObj = ???(myData, {
 
 [1:Deep Copies]
 There is another method to make this comparison possible, but it requires a lot of writing and provides many opportunities for bugs to appear. The process would consist of creating a new copy of your data, changing the parts that need to be changed, and finally comparing the old copy and the new copy using triple-equals.
+
+[2: New Entry]
+A new footnote without content reference
