@@ -62,7 +62,7 @@ const newData = update(myData, {
 });
 ```
 
-Although this format might need some getting used to, it provides a much better approach for determining which data has changed [1].
+Although this format might need some getting used to, it provides a much better approach for determining which data has changed.
 
 In terms of notation, keys that are preceded by a `$` are called **commands** (`{ $push: array }`, `{ $apply: function }`, etc.) and the data that is being mutated is called the **target**. Will this `break[2]`?
 
