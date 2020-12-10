@@ -11,7 +11,7 @@ print("So this is markdown!");
 this should
 ```
 
-That is called a code block. To write it, you start with ` ``` ` and end with ` ``` `, just like this: 
+That is called a code block. To write it, you start with ` ``` ` and end with ` ``` `, just like this:
 
 ``````md
 ```python
