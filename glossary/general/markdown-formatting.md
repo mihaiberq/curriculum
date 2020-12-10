@@ -8,6 +8,7 @@ When submitting an answer in the comment section, you'll want to use something l
 
 ```py
 print("So this is markdown!");
+this should work
 ```
 
 That is called a code block. To write it, you start with ` ``` ` and end with ` ``` `, just like this:
